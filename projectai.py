@@ -308,4 +308,4 @@ with tab_delete:
             notify(f"'{target.name}' is gone.", "🧹")
 
 st.write("")
-st.caption("Made with care 🧡  ·  everything is stored in the 'my_space' folder next to this app")clea
+st.caption("Made with care 🧡  ·  everything is stored in the 'my_space' folder next to this app")
